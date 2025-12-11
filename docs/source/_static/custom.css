@@ -1,0 +1,46 @@
+/* 整体字体与背景 */
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* 链接样式 */
+a {
+    color: #2980B9;
+}
+a:hover {
+    color: #007ACC;
+}
+
+/* 搜索框背景 */
+.wy-side-nav-search {
+    background-color: #f5f5f5;
+}
+
+/* 侧边栏背景 */
+.wy-nav-side {
+    background-color: #ffffff;
+}
+
+/* 鼠标悬停时高亮 */
+.wy-menu-vertical a:hover {
+    background-color: #e6f2fa;
+    color: #007ACC;
+}
+
+/* 当前选中项高亮 + 左边蓝色竖线 */
+.wy-menu-vertical .current > a,
+.wy-menu-vertical .current > a:hover {
+    background-color: #f0f8ff;
+    color: #2980B9;
+    font-weight: bold;
+    border-left: 4px solid #2980B9;
+    padding-left: 12px; /* 避免文字紧贴竖线 */
+}
+
+/* 平滑过渡动画 */
+.wy-menu-vertical a,
+.wy-menu-vertical .current > a {
+    transition: all 0.2s ease-in-out;
+}
