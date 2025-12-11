@@ -398,4 +398,9 @@ Effects Demonstration
    :width: 800
    :align: center
 
+
+.. image:: _static/1-1/3.LCD.png
+   :width: 800
+   :align: center
+
 ----
