@@ -21,6 +21,10 @@ Required Component
 
  - IR Receiver Module、Infrared Remote Control
 
+.. note::
+
+   To comply with battery transportation safety regulations, this infrared remote control is shipped without batteries. Please install a **CR2025 button battery** before use.
+  
 ----
 
 Working Principle

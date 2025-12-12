@@ -107,7 +107,7 @@ Bill of Materials
      - SG90 Servo
      - x1
    * - 16
-     - Infrared remote control
+     - Infrared remote control（Battery not included）
      - x1
    * - 17
      - 6xAA Battery Pack
