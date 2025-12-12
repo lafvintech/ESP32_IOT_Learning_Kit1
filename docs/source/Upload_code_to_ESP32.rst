@@ -18,8 +18,8 @@ After completing the previous steps, ensure that the CH340 serial port driver ha
 Download the Code
 ~~~~~~~~~~~~~~~~~
 
-1. Click the link below to download the code we prepared. The complete code path is: **Code and Libraries** → **Code** → **11.COM_Code**.
-`Download Code <https://www.dropbox.com/scl/fi/j6oue7pij59qyy9cwqclh/CH34x_Install_Windows_v3_4.zip?rlkey=xttzwik1qp56naxw8v7ostmkq&e=1&st=kcy0xjl1&dl=0>`_
+1. Click the link below to download the code we prepared. The complete code path is: **Code and Libraries** → **Code** → **11.COM_Code/11.SmartHome**.
+`Download Code <https://www.dropbox.com/scl/fo/sl9z0sjm05r91bp1ydpow/ADg7koIZM07COmi8Y_GyPWE?rlkey=odmym388yz5bqwd5xhbzzn2zi&st=4w7j8l23&dl=1>`_
 
 .. image:: _static/51.code2.png
    :width: 800

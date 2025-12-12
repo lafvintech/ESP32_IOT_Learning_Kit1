@@ -388,7 +388,7 @@ Click **Tools → Board → esp32** to check whether an ESP32 development board 
 Download Libraries
 ~~~~~~~~~~~~~~~~~~
 
-1. We've compiled all the libraries necessary to run this suite. Please click the link below to download them and follow the instructions to complete the installation:  `Download libraries <https://www.dropbox.com/scl/fo/syf1zstu58f4xlcld2nss/ACJOi93PcIafo5yGabrprDA?rlkey=hoc2undykymrxac7z8nclpk9u&st=el86zaw9&dl=1>`_
+1. We've compiled all the libraries necessary to run this suite. Please click the link below to download them and follow the instructions to complete the installation:  `Download libraries <https://www.dropbox.com/scl/fo/sl9z0sjm05r91bp1ydpow/ADg7koIZM07COmi8Y_GyPWE?rlkey=odmym388yz5bqwd5xhbzzn2zi&st=4w7j8l23&dl=1>`_
 
 2. Unzip the downloaded library file. The library file storage path is **Code and Libraries** → **Libraries** . Open it and confirm that it contains the library file shown in the figure below. 
 

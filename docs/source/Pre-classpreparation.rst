@@ -8,7 +8,7 @@ Before you begin learning, please ensure that you have downloaded all the resour
 
 All the necessary code and library files for this course are provided. You can obtain all the resources through the following link.
 
-`Code and Libraries <https://www.dropbox.com/scl/fo/syf1zstu58f4xlcld2nss/ACJOi93PcIafo5yGabrprDA?rlkey=hoc2undykymrxac7z8nclpk9u&st=el86zaw9&dl=1>`_
+`Code and Libraries <https://www.dropbox.com/scl/fo/sl9z0sjm05r91bp1ydpow/ADg7koIZM07COmi8Y_GyPWE?rlkey=odmym388yz5bqwd5xhbzzn2zi&st=4w7j8l23&dl=1>`_
 
 1. The **Code** folder contains the following 11 folders.
 
